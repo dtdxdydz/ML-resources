@@ -43,6 +43,7 @@ And I prefer going through this book using [Amazon SageMaker](https://d2l.ai/cha
 ## Statistics
 * [Rus][Free][Courses] [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3
 ](https://stepik.org/course/2152/info)
+* [Eng][Free][Course] [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 ## SQL
 * [Rus][Paid][Courses] [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info)
