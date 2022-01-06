@@ -63,3 +63,8 @@ Pruning trees. In this approach, the tree is first constructed to the maximum de
      - How to find the regularization parameter in LASSO or Ridge or Elastic Net?
      - In what situations LASSO performs better than Ridge?
 
+## Dimensionality reduction
+ - What is dimensionality reduction?
+ - Which techniques for dimensionality reduction do you know?
+ - What are SVD and truncated SVD? What is the difference between them?
+
