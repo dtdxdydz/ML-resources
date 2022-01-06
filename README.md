@@ -19,6 +19,7 @@ Additional information can be:
 * [Eng][Free][General] [Machine Learning FAQ by X](https://machinelearningfaq.com/)
 * [Eng][Free][General] [OVER 100 Data Scientist Interview Questions and Answers by Terence Shin](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)
 * [Rus][Free][General] [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/)
+* [Eng][Free][General] [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md)
 
 
 ### Machine Learning
