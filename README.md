@@ -94,3 +94,27 @@ Free* = Some topics are free and some are paid
 
 ### Not popular, but cool python libraries
 * [Eng][Free][Package] [Mlxtend](https://github.com/rasbt/mlxtend) (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks
+
+### Assignments for ML & DL
+* [Eng][Free][Assignments] [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/index.html#schedule)
+  * Assignment 1: Introduction to word vectors
+  * Assignment 2: Derivatives and implementation of word2vec algorithm
+  * Assignment 3: Dependency parsing and neural network foundations
+  * Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords
+  * Assignment 5: Self-supervised learning and fine-tuning with Transformers
+* [Eng][Free][Assignments] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/)
+  * Assignment 1: Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network
+  * Assignment 2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
+  * Assignment 3: Image Captioning with Vanilla RNNs, LSTMs, Transformers, Network Visualization, Generative Adversarial Networks
+* [Eng][Free][Assignments] [CS229: Machine Learning](https://cs229.stanford.edu/syllabus.html) & [Summer version](https://cs229.stanford.edu/syllabus-summer2019.html) & [Assignments from Fall 2018](https://cs229.stanford.edu/syllabus-autumn2018.html)
+
+### Cheatsheets
+* [Eng][Free][Cheatsheets] [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+  * [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+  * [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+  * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+  * [Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+* [Eng][Free][Cheatsheets] [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+  * [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+  * [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+  * [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)

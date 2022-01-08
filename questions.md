@@ -68,3 +68,6 @@ Pruning trees. In this approach, the tree is first constructed to the maximum de
  - Which techniques for dimensionality reduction do you know?
  - What are SVD and truncated SVD? What is the difference between them?
 
+## NLP
+ - What is embedding?
+ - 
