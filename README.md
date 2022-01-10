@@ -25,8 +25,8 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md) `Questions`
 
 ## Machine Learning
-* [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments` `Course`
-Also, in Russian [Открытый курс машинного обучения](https://ods.ai/tracks/open-ml-course) `Rus` `Course`
+* [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments` `Course`  
+[Открытый курс машинного обучения](https://ods.ai/tracks/open-ml-course) `Free course + Paid additional assignments` `Course`  
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos`
 * [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
 * [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Courses`
@@ -109,7 +109,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Cheatsheets
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) `Cheatsheet`
-  * [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+  * [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) 
   * [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
   * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
   * [Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
