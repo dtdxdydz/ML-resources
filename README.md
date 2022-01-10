@@ -25,7 +25,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md) `Questions`
 
 ## Machine Learning
-* [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments` 
+* [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  
 [Открытый курс машинного обучения](https://ods.ai/tracks/open-ml-course) `Rus` `Free course + Paid additional assignments`
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos`
 * [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
