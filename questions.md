@@ -1,3 +1,11 @@
+**Table of Contents**:
+- [k-Nearest Neighbors](#k-nearest-neighbors)
+- [Decision Trees](#decision-trees)
+- [Linear regression](#linear-regression)
+- [Dimensionality reduction](#dimensionality-reduction)
+- [NLP](#nlp)
+
+
 ## k-Nearest Neighbors
  - What is kNN? 
  - Can it be trained? If no, why?
