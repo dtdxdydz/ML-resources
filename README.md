@@ -16,6 +16,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 - [Not popular, but cool python libraries](#not-popular-but-cool-python-libraries)
 - [Assignments for ML & DL](#assignments-for-ml--dl)
 - [Cheatsheets](#cheatsheets)
+- [Datasets](#datasets)
 
 ## Interview preparation and knowledge checking
 * [Machine Learning FAQ by Sebastian Raschka](https://sebastianraschka.com/faq/) `Questions`
@@ -117,3 +118,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
   * [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
   * [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
   * [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+
+## Datasets
+* [24 Useful Open Datasets for Natural Language Processing](https://odsc.medium.com/24-useful-open-datasets-for-natural-language-processing-4eea7f0c8b94) `Datasets`
