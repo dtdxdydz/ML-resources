@@ -73,6 +73,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Algorithms and Data Structures
 * [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course`
+* [Algoprog](https://algoprog.ru/) `Free + Paid` `Course`
+* [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `Rus` `Course`
+* [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `Rus` `Course`
 
 ## Metrics
 * [Classification metrics (precision, recall, F1 and Matthews correlation coefficient)](https://twitter.com/rasbt/status/1457018296847437824?t=NHXMPdhYFg9xF-WzqGQZYg&s=09) `Twitter thread`
