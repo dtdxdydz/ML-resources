@@ -62,6 +62,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) `Book`
 * [LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
 * [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
+* [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/) `Rus` `Course`
 
 ## Computer Vision
 * [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus) `Rus` `Course`
