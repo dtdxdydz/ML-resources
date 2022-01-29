@@ -31,6 +31,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/featured) `Videos`
 * [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
 * [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Courses`
+* [Учебник по машинному обучению от ШАД Яндекс](https://ml-handbook.ru/) `Rus` `Book`
 
 ## Deep Learning
 * [Dive into Deep Learning](https://d2l.ai/index.html)  
@@ -74,7 +75,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Algorithms and Data Structures
 * [LeetCode Explore](https://leetcode.com/explore/) `Free + Paid` `Course`
-* [Algoprog](https://algoprog.ru/) `Free + Paid` `Course`
+* [Algoprog](https://algoprog.ru/) `Rus` `Free + Paid` `Course`
 * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info) `Free` `Rus` `Course`
 * [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/info) `Free` `Rus` `Course`
 
