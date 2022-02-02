@@ -32,6 +32,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [Machine Learning Mastery by Jason Brownlee](https://machinelearningmastery.com/) `Free guides + Paid eBooks`
 * [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Courses`
 * [Учебник по машинному обучению от ШАД Яндекс](https://ml-handbook.ru/) `Rus` `Book`
+* [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
 
 ## Deep Learning
 * [Dive into Deep Learning](https://d2l.ai/index.html)  
@@ -44,8 +45,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Программирование на Python](https://stepik.org/course/67/info) `Rus` `Course`
 
 ## Statistics
-* [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3
-](https://stepik.org/course/2152/info) `Rus` `Courses`
+* [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Courses`
 * [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`
 
 ## SQL
@@ -61,8 +61,8 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Recommendations for Getting Started with NLP by Elvis](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started) `Paid` `Recommendations`
 * [Natural Language Processing course by Valentin Malykh](https://ods.ai/tracks/nlp-course) `Course`
 * [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) `Book`
-* [LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
-* [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
+* [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
+* [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
 * [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/) `Rus` `Course`
 
 ## Computer Vision
@@ -101,25 +101,25 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Mlxtend](https://github.com/rasbt/mlxtend) (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks `Package`
 
 ## Assignments for ML & DL
-* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/index.html#schedule) `Assignments`
+* [Stanford CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/index.html#schedule) `Assignments`
   * Assignment 1: Introduction to word vectors
   * Assignment 2: Derivatives and implementation of word2vec algorithm
   * Assignment 3: Dependency parsing and neural network foundations
   * Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords
   * Assignment 5: Self-supervised learning and fine-tuning with Transformers
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/) `Assignments`
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html) & [Course notes](https://cs231n.github.io/) `Assignments`
   * Assignment 1: Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network
   * Assignment 2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
   * Assignment 3: Image Captioning with Vanilla RNNs, LSTMs, Transformers, Network Visualization, Generative Adversarial Networks
-* [CS229: Machine Learning](https://cs229.stanford.edu/syllabus.html) & [Summer version](https://cs229.stanford.edu/syllabus-summer2019.html) & [Assignments from Fall 2018](https://cs229.stanford.edu/syllabus-autumn2018.html) `Assignments`
+* [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus.html) & [Summer version](https://cs229.stanford.edu/syllabus-summer2019.html) & [Assignments from Fall 2018](https://cs229.stanford.edu/syllabus-autumn2018.html) `Assignments`
 
 ## Cheatsheets
-* [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) `Cheatsheet`
+* [Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) `Cheatsheet`
   * [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) 
   * [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
   * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
   * [Machine Learning tips and tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
-* [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) `Cheatsheet`
+* [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) `Cheatsheet`
   * [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
   * [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
   * [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
