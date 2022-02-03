@@ -4,6 +4,7 @@
 - [Linear regression](#linear-regression)
 - [Dimensionality reduction](#dimensionality-reduction)
 - [NLP](#nlp)
+  - [word2vec](#word2vec)
 
 
 ## K-Nearest Neighbors
@@ -70,4 +71,6 @@
 
 ## NLP
  * What is embedding?
- * 
+
+### word2vec
+* 
