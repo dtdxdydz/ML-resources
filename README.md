@@ -24,6 +24,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [OVER 100 Data Scientist Interview Questions and Answers by Terence Shin](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) `Questions`
 * [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus` `Questions`
 * [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md) `Questions`
+* [Introduction to Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
 
 ## Machine Learning
 * [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  
@@ -64,6 +65,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Stanford LSA 311: Computational Lexical Semantics by Dan Jurafsky](https://web.stanford.edu/~jurafsky/li15/) `Course`
 * [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.html) `Course`
 * [Введение в обработку естественного языка](https://compscicenter.ru/courses/introduction-nlp/2019-autumn/) `Rus` `Course`
+* [Stanford CS 224V Conversational Virtual Assistants with Deep Learning](https://web.stanford.edu/class/cs224v/schedule.html) `Course`
 
 ## Computer Vision
 * [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus) `Rus` `Course`
