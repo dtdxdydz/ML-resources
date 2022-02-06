@@ -25,6 +25,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [Материалы для подготовки по машинному обучению от Тинькофф](https://www.tinkoff.ru/career/it/interview/ml/) `Rus` `Questions`
 * [DS & Python questions by Artem Ryblov](https://github.com/Extremesarova/resources/blob/main/questions.md) `Questions`
 * [Introduction to Machine Learning Interviews Book by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
+* [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ## Machine Learning
 * [Open Machine Learning Course by Yury Kashnitsky](https://mlcourse.ai/book/index.html) `Free course + Paid additional assignments`  
