@@ -17,6 +17,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 - [Assignments for ML & DL](#assignments-for-ml--dl)
 - [Cheatsheets](#cheatsheets)
 - [Datasets](#datasets)
+- [Other](#other)
 
 ## Interview preparation and knowledge checking
 * [Machine Learning FAQ by Sebastian Raschka](https://sebastianraschka.com/faq/) `Questions`
@@ -35,6 +36,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Courses`
 * [Учебник по машинному обучению от ШАД Яндекс](https://ml-handbook.ru/) `Rus` `Book`
 * [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
+* [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book`
 
 ## Deep Learning
 * [Dive into Deep Learning](https://d2l.ai/index.html)  
@@ -53,6 +55,7 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ## SQL
 * [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
 * [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info) `Rus` `Course`
+* [Онлайн тренажер SQL Academy](https://sql-academy.org/ru/trainer?sort=byId) `Rus` `Course`
 
 ## NLP
 * [Нейронные сети и обработка текста](https://stepik.org/course/54098/info) `Rus` `Course`
@@ -129,3 +132,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Datasets
 * [24 Useful Open Datasets for Natural Language Processing](https://odsc.medium.com/24-useful-open-datasets-for-natural-language-processing-4eea7f0c8b94) `Datasets`
+
+## Other
+* [Courses at Stanford relative to AI](https://burlachenkok.github.io/Courses-at-Stanford-relative-to-AI/)
