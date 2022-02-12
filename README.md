@@ -36,6 +36,7 @@ A list of materials I've found helpful for learning Machine and Deep Learning, P
 * [End to End Machine Learning by Brandon Rohrer](https://end-to-end-machine-learning.teachable.com/courses/) `Courses`
 * [Учебник по машинному обучению от ШАД Яндекс](https://ml-handbook.ru/) `Rus` `Book`
 * [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) `Course`
+* [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) `Book`
 * [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book`
 
 ## Deep Learning
