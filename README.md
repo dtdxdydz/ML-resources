@@ -50,8 +50,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 * [Программирование на Python](https://stepik.org/course/67/info) `Rus` `Course`
 
 ## Statistics
-* [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Courses`
+* [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Course`
 * [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`
+* [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
 
 ## SQL
 * [Основы SQL](https://stepik.org/course/51562/info) + [Продвинутый SQL](https://stepik.org/course/55776/info) + [Проектирование баз данных](https://stepik.org/course/51675/info) `Rus` `Paid` `Courses`
