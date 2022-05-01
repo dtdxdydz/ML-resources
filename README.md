@@ -34,6 +34,7 @@
 - [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Data Science Interviews by Alexey Grigoriev](https://ds-interviews.org/) `Questions`
 - [Тестовые задания по DS](https://github.com/slgero/testovoe) `Rus`
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## Machine Learning
 
