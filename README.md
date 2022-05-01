@@ -34,7 +34,7 @@
 - [Awesome interview questions repository](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Data Science Interviews by Alexey Grigoriev](https://ds-interviews.org/) `Questions`
 - [Тестовые задания по DS](https://github.com/slgero/testovoe) `Rus`
-- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) `Repository`
 
 ## Machine Learning
 
@@ -174,6 +174,6 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 
 ## Other lists of materials
 
-- [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
+- [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) `Repository`
 - [Start Career in DS: навигация по постам](https://mercurial-lace-fb6.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915cb)
-- [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md)
+- [Extra materials for ml-mipt course](https://github.com/girafe-ai/ml-mipt/blob/master/extra_materials.md) `Repository`
