@@ -49,6 +49,7 @@
 - [Machine Learning Simplified: A gentle introduction to supervised learning by Andrew Wolf](https://themlsbook.com/read) `Free` `Book`
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%BE) `Rus` `Course`
 - [Stanford CS229: Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) `Course`
+- [Прикладные задачи анализа данных, Александр Дьяконов](https://github.com/Dyakonov/PZAD/tree/master/2020) + [Video](https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h) `Rus` `Course`
 
 ## Deep Learning
 
@@ -70,9 +71,9 @@ I prefer going through this book using [Amazon SageMaker](https://d2l.ai/chapter
 ## Statistics
 
 - [Основы статистики](https://stepik.org/course/76/info) + [Основы статистики. Часть 2](https://stepik.org/course/524/info) + [Основы статистики. Часть 3](https://stepik.org/course/2152/info) `Rus` `Course`
-
 - [Statistics and probability from Khan Academy](https://www.khanacademy.org/math/statistics-probability) `Course`
 - [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/cs109/) + [Course Book](https://chrispiech.github.io/probabilityForComputerScientists/en/index.html) `Course`
+- [Математическая статистика и AB-тестирование](https://github.com/FUlyankin/matstat_coursera) `Repository`
 
 ## SQL
 
